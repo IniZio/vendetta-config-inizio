@@ -1,0 +1,7 @@
+name: docker
+version: 1.0.0
+description: Docker and containerization best practices
+conditions:
+  - file: Dockerfile
+  - file: docker-compose.yml
+  - file: docker-compose.yaml

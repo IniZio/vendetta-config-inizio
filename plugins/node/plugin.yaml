@@ -1,0 +1,5 @@
+name: node
+version: 1.0.0
+description: Node.js and JavaScript/TypeScript rules
+conditions:
+  - file: package.json

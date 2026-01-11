@@ -1,0 +1,6 @@
+name: golang
+version: 1.0.0
+description: Go-specific rules and commands
+conditions:
+  - file: go.mod
+  - file: go.sum
