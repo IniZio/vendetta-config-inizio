@@ -1,3 +1,4 @@
+---
 name: playwright
 description: Browser automation and web scraping via Playwright
 parameters:
@@ -8,3 +9,8 @@ parameters:
 execute:
   command: "npx"
   args: ["playwright", "test"]
+source: https://playwright.dev/
+---
+
+# Playwright Skill
+Allows the agent to interact with web pages using Playwright.

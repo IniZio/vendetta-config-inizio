@@ -2,6 +2,7 @@
 title: TDD Best Practices
 description: Guidelines for Test-Driven Development
 globs: ["**/*_test.go", "**/*.test.ts"]
+source: https://arxiv.org/abs/2510.23761
 ---
 
 # TDD BEST PRACTICES
